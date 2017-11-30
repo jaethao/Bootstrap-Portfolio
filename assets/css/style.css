@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.maiyert{
+font-size: 2em;
+font-family: serif;
+font-weight: bold;
+}
+
+h2, h3, h4, h6{
+  font-family: serif;
+  font-weight: bold;
+}
+
+.footer{
+  text-align: center;
+}
+
+.girl{
+  padding-right: 10px;
+  display: block;
+  float: left;
+}
